@@ -1,0 +1,22 @@
+S -> NP VP
+VP -> Verb NP
+VP -> Dajatlha
+VP -> vIlegh
+VP -> jIHtaH
+VP -> maH
+NP -> Adj Noun
+NP -> tlhIngan
+NP -> Hol
+NP -> puq
+NP -> paDaq
+NP -> jIH
+Adj -> tlhIngan
+Noun -> tlhIngan
+Noun -> Hol
+Noun -> puq
+Noun -> paDaq
+Noun -> jIH
+Verb -> Dajatlha
+Verb -> vIlegh
+Verb -> jIHtaH
+Verb -> maH
