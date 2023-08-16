@@ -14,11 +14,14 @@ NP -> me
 NP -> TWA
 NP -> Houston
 NP -> Det Nominal
+NP -> Det Nominal PP
 Nominal -> book
 Nominal -> flight
 Nominal -> meal
 Nominal -> money
 Nominal -> morning
+Nominal -> elephant
+Nominal -> pajamas
 Nominal -> Nominal Noun
 Nominal -> Nominal PP
 VP -> book
@@ -34,6 +37,8 @@ Det -> that
 Det -> this
 Det -> the
 Det -> a
+Det -> an
+Det -> my
 Noun -> book
 Noun -> flight
 Noun -> meal
@@ -42,6 +47,7 @@ Noun -> morning
 Verb -> book
 Verb -> include
 Verb -> prefer
+Verb -> shot
 Pronoun -> I
 Pronoun -> she
 Pronoun -> me
@@ -53,3 +59,4 @@ Preposition -> to
 Preposition -> on
 Preposition -> near
 Preposition -> through
+Preposition -> in
