@@ -4,6 +4,7 @@ X1 -> Aux NP
 S -> book
 S -> include
 S -> prefer
+S -> shot
 S -> Verb NP
 S -> X2 PP
 S -> Verb PP
@@ -27,6 +28,7 @@ Nominal -> Nominal PP
 VP -> book
 VP -> include
 VP -> prefer
+VP -> shot
 VP -> Verb NP
 VP -> X2 PP
 X2 -> Verb NP
@@ -44,6 +46,8 @@ Noun -> flight
 Noun -> meal
 Noun -> money
 Noun -> morning
+Noun -> elephant
+Noun -> pajamas
 Verb -> book
 Verb -> include
 Verb -> prefer
