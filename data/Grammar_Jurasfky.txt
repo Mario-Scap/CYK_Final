@@ -1,6 +1,12 @@
 S -> NP VP
 S -> X1 VP
 X1 -> Aux NP
+S -> book
+S -> include
+S -> prefer
+S -> shot
+S -> drink
+S -> read
 S -> Verb NP
 S -> X2 PP
 S -> Verb PP
