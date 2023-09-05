@@ -72,11 +72,11 @@ Preposition -> on
 Preposition -> near
 Preposition -> through
 Preposition -> in
-Adverb -> rarely
-Adverb -> never
+Adverb -> hardly
+Adverb -> ever
 Adverb -> always
 Adverb -> sometimes
 Adverb -> quickly
 Adverb -> often
-Adv1 -> rarely
-Adv2 -> never
+Adv1 -> hardly
+Adv2 -> ever
